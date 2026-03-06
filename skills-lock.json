@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "node-best-practices": {
+      "source": "mcollina/skills",
+      "sourceType": "github",
+      "computedHash": "26825a659f97acd02a91586df8c648856f9fbb8d6d315d419cf785db8d15ce43"
+    },
+    "pino-logger": {
+      "source": "renjith100/skills",
+      "sourceType": "github",
+      "computedHash": "cb9a2f7d33e9096e0b754729294e5a41163e15e4e821a5051d709cd82311b0ff"
+    },
+    "pnpm": {
+      "source": "renjith100/skills",
+      "sourceType": "github",
+      "computedHash": "45f095eb3c30c2202421d0ab1c757f24abedb32577c9e76d6790ec0723cf4407"
+    }
+  }
+}
