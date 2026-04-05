@@ -28,8 +28,16 @@ export function dayFileName(date: Date): string {
 
 export function createDayTemplate(date: Date): string {
 	return `---
+title: Daily Journal — ${formatDate(date)}
 date: ${formatDate(date)}
-tags: []
+type: journal
+area: personal
+tags: [daily]
+source: ""
+project: ""
+related: []
+status: evergreen
+reviewed: ${formatDate(date)}
 mood: neutral
 ---
 ## Thoughts
